@@ -1,0 +1,16 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\jre\\lib\\ext\\access-bridge-64.jar",
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\lib\\ant-javafx.jar",
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\jre\\lib\\ext\\cldrdata.jar",
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\jre\\lib\\deploy.jar",
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\lib\\packager.jar",
+            "c:\\Program Files\\Java\\jdk1.8.0_261\\jre\\lib\\ext\\sunjce_provider.jar"
+        ]
+    }
+}
