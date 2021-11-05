@@ -5,6 +5,7 @@ This was a class project that uses JavaFX to learn and simulate battles in Lord 
 <img src="https://raw.githubusercontent.com/calvin-li-developer/middle-earth-battlefield-sim-java/master/Battlefield.png" width="600">
 
 # Getting Started
-To run this code you need to run it on IntelliJ IDEA with:
-- JDK 1.8
-- JRE 1.8
+To run this code you need to run it with:
+- [JDK 1.8](https://www.oracle.com/ca-en/java/technologies/javase/javase8-archive-downloads.html) 
+- JDK 1.8 comes with JavaFX
+- [JDK 1.8 / JavaFX Documentation](https://www.oracle.com/java/technologies/javase-jdk8-doc-downloads.html)
