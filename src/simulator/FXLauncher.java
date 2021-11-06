@@ -61,7 +61,7 @@ public class FXLauncher extends Application
      */
     private ImageView createBackground()
     {
-        final String filename = "./MiddleEarth-3.jpg"; // must reside in the project directory to support this relative pathname
+        final String filename = "./src/img/MiddleEarth-3.jpg"; // must reside in the project directory to support this relative pathname
         try (FileInputStream fileInputStream = new FileInputStream(filename))
         { // try-catch block implemented to manage potential file loading issues.
             Image imageBackground = new Image(fileInputStream);
